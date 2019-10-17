@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MakerLab</string>
+    <string name="welcome">Welcome to Tools Reservation</string>
+    <string name="tap">Select a tool to make a reservation</string>
+</resources>
